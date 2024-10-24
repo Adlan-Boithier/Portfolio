@@ -32,9 +32,11 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 ### **Coursework**
 #### Collaborations with companies in Data Science
 - Conducted an in-depth analysis at Hôpitaux Universitaires de Genève (HUG) on the factors influencing the scheduling and prioritization of specific vacations. This involved using **Excel** for **data preprocessing** and **R** for **exploratory data analysis and text mining.** The results showed **hundreds of errors** in patientsʼ data and laid the foundation for a complete overhaul of the data collection system, ultimately enhancing patient care.
+![HUG_Example](/assets/HUG_Example.png)
 
 #### Sustainable Logistics
 - Used **Python** to optimize Swiss tourism through algorithms like **the Traveling Salesman Problem (TSP)** and a **custom knapsack variant**, improving travel routes based on distance, time, and cost. Analysis highlighted underuse of the Swiss rail system, suggesting pricing adjustments for better tourist appeal.
+![Sustainable_Logistics_Example](/assets/Sustainable_Logistics_Example.png)
 
 #### Optimization Methods in Management Science
 - Collaborated with the BioSuisse group to analyze price trends of over **60 vegetables** across **4 years**, comparing organic and non-organic varieties. Developed a clean, comprehensive datasource in **Excel** to compile price data, and leveraged **R**’s processing and visualization capabilities to create an **interactive dashboard**. This dashboard allowed users to track price evolution and select specific vegetables for detailed analysis.
