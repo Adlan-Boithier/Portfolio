@@ -1,5 +1,5 @@
 title: Adlan Boithier
 description: Aspiring Data Analyst / Scientist 
 logo: /assets/Photo CV.jpeg
-#show_downloads: false
-theme: jekyll-theme-cayman
+show_downloads: true
+theme: jekyll-theme-minimal
