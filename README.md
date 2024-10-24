@@ -53,6 +53,6 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 - Played a key role in creating and promoting an event that gathered over **400 attendees.**
 - Organized online concerts on Twitch with over **100 participants** on each stream.
 
-### Skills
+### **Skills**
 - **Technical skills** : R, Python, Julia, VBA, SQL, Tableau, Tableau Prep  
 - **Languages** : French : Native speaker, English : C1
