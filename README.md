@@ -32,6 +32,7 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 ### **Coursework**
 #### Collaborations with companies in Data Science
 - Conducted an in-depth analysis at Hôpitaux Universitaires de Genève (HUG) on the factors influencing the scheduling and prioritization of specific vacations. This involved using **Excel** for **data preprocessing** and **R** for **exploratory data analysis and text mining.** The results showed **hundreds of errors** in patientsʼ data and laid the foundation for a complete overhaul of the data collection system, ultimately enhancing patient care.
+
 ![HUG_Example](/assets/HUG_Example.png)
 
 #### Sustainable Logistics
