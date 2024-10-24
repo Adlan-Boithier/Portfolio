@@ -36,6 +36,7 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 
 #### Sustainable Logistics
 - Used **Python** to optimize Swiss tourism through algorithms like **the Traveling Salesman Problem (TSP)** and a **custom knapsack variant**, improving travel routes based on distance, time, and cost. Analysis highlighted underuse of the Swiss rail system, suggesting pricing adjustments for better tourist appeal.
+
 ![Sustainable_Logistics_Example](/assets/Sustainable_Logistics_Example.png)
 
 #### Optimization Methods in Management Science
