@@ -1,3 +1,5 @@
+# Aspiring Data Analyst / Data Scientist
+
 ### **Education**
 #### Master of Science in Business Analytics
 #### HEC Lausanne, University of Lausanne • Lausanne, Switzerland • 2024
