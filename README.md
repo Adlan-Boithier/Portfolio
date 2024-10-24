@@ -37,10 +37,10 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 - Used **Python** to optimize Swiss tourism through algorithms like **the Traveling Salesman Problem (TSP)** and a **custom knapsack variant**, improving travel routes based on distance, time, and cost. Analysis highlighted underuse of the Swiss rail system, suggesting pricing adjustments for better tourist appeal.
 
 #### Optimization Methods in Management Science
-- Collaborated with the BioSuisse group to analyze price trends of over **60 vegetables** across **4 years**, comparing organic and non-organic varieties. Developed a clean, comprehensive datasource in Excel to compile price data, and leveraged R’s processing and visualization capabilities to create an interactive dashboard. This dashboard allowed users to track price evolution and select specific vegetables for detailed analysis.
+- Collaborated with the BioSuisse group to analyze price trends of over **60 vegetables** across **4 years**, comparing organic and non-organic varieties. Developed a clean, comprehensive datasource in **Excel** to compile price data, and leveraged **R**’s processing and visualization capabilities to create an **interactive dashboard**. This dashboard allowed users to track price evolution and select specific vegetables for detailed analysis.
 
 #### Supply chain network design and planning
-- Developed a solution in collaboration with the La Poste group to optimize the parcel delivery system in Paris using the R programming language. Processed over **70,000 delivery data points per month**, applying **vehicle routing problem (VRP)** algorithms and leveraging R's optimization libraries to design routes that **reduced delivery time by 35%** and **fuel consumption by 60%.** The solution aligns with ongoing initiatives at La Poste for improving logistical efficiency.
+- Developed a solution in collaboration with the La Poste group to optimize the parcel delivery system in Paris using the **R programming language.** Processed over **70,000 delivery data points per month**, applying **vehicle routing problem (VRP)** algorithms and leveraging R's optimization libraries to design routes that **reduced delivery time by 35%** and **fuel consumption by 60%.** The solution aligns with ongoing initiatives at La Poste for improving logistical efficiency.
 
 ### Involment
 #### Head of Communications
