@@ -11,7 +11,7 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 
 ### Rolex S.A, February 2024 - July 2024, Geneva, Switzerland
 
-- Led a project to create **dashboards and KPI's** using **Tableau, Tableau Prep, SQL and Excel** aimed at analyzing the causes of incomplete supplier information. This information resulted in the establishment of new guidelines, leading to a **30% decrease** in refusals over a five-month period.
+- Led a project to create **dashboards and KPIs** using **Tableau, Tableau Prep, SQL and Excel** aimed at analyzing the causes of incomplete supplier information. This information resulted in the establishment of new guidelines, leading to a **30% decrease** in refusals over a five-month period.
 - Spearheaded a project aimed at highlighting inconsistencies between contract details and the actual information present in contracts; Utilized **Tableau** to highlight that approximately **12%** of contracts contained anomalies, amounting to **hundreds of inconsistencies.** 
 - Implemented a business process enhancement initiative by applying **operational excellence (OPEX)** and **design thinking principles**, leading to streamlined workloads and enhanced work quality.
 - Optimized an existing process in **VBA** within **Excel** to generate a list of outstanding payments for each buyer. This enhancement reduced the macro's execution time from **several hours to under 5 minutes**, significantly improving efficiency and freeing up time for other tasks.
