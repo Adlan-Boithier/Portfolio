@@ -1,4 +1,4 @@
-# Aspiring Data Analyst / Scientist
+# Adlan Boithier
 
 ## **Education**
 ### Master of Science in Business Analytics
