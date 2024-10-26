@@ -38,7 +38,7 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 ### Optimization Methods in Management Science
 - Collaborated with the BioSuisse group to analyze price trends of over **60 vegetables** across **4 years**, comparing organic and non-organic varieties. Developed a clean, comprehensive datasource in **Excel** to compile price data, and leveraged **R**’s processing and visualization capabilities to create an **interactive dashboard**. This dashboard allowed users to track price evolution and select specific vegetables for detailed analysis.
 
-### Supply chain network design and planning
+### [Supply chain network design and planning](https://github.com/Adlan-Boithier/Supply-Chain-La-Poste/)
 - Developed a solution in collaboration with the La Poste group to optimize the parcel delivery system in Paris using the **R programming language.** Processed over **70,000 delivery data points per month**, applying **vehicle routing problem (VRP)** algorithms and leveraging R's optimization libraries to design routes that **reduced delivery time by 35%** and **fuel consumption by 60%.** The solution aligns with ongoing initiatives at La Poste for improving logistical efficiency.
 
 ## **Involment**
