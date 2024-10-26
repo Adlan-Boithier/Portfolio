@@ -41,7 +41,7 @@ understanding, cleaning and visualization, in both **R and Python**, choosing el
 ### Optimization Methods in Management Science*
 - Collaborated with the BioSuisse group to analyze price trends of over **60 vegetables** across **4 years**, comparing organic and non-organic varieties. Developed a clean, comprehensive datasource in **Excel** to compile price data, and leveraged **R**’s processing and visualization capabilities to create an **interactive dashboard**. This dashboard allowed users to track price evolution and select specific vegetables for detailed analysis.
 
-*Note: The projects marked with '*' are confidential and cannot be shared due to NDAs.*
+*Note: The projects marked with * are confidential and cannot be shared due to NDAs.*
 
 ## **Involment**
 ### Head of Communications
