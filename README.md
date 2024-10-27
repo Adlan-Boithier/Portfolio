@@ -6,7 +6,7 @@
 ### [Sustainable Logistics](https://github.com/Adlan-Boithier/Sustainable-Logistics/)
 - Used **Python** to optimize Swiss tourism through algorithms like **the Traveling Salesman Problem (TSP)** and a **custom knapsack variant**, improving travel routes based on distance, time, and cost. Analysis highlighted underuse of the Swiss rail system, suggesting pricing adjustments for better tourist appeal.
 
-### [](https://github.com/Adlan-Boithier/Premier-League-Prediction/)
+### [Predictive Analytics for Premier League Team Performance](https://github.com/Adlan-Boithier/Premier-League-Prediction/)
 - Developed a **predictive analytics model** for Premier League team performance using a **random forest algorithm.** The project involved cleaning and preparing data with **pandas**, followed by making match outcome predictions with **scikit-learn.** Enhanced model accuracy by implementing a **rolling averages method**, resulting in a **15% increase in precision.** Evaluated prediction errors and made iterative improvements, ultimately achieving an **additional 5% precision gain** in scenarios where a team was forecasted to win while the opponent was predicted to draw or lose.
 
 ## **Skills**
