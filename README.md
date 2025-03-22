@@ -26,6 +26,7 @@
 Achieved an additional 5% precision gain in scenarios where a team was forecasted to win against opponents predicted to draw or lose.
 
 ### [Travel Preferences: Mountains vs Beaches](https://github.com/Adlan-Boithier/Mountains-vs-Beaches) 
+![distribution_preferences](distribution_preferences.png)
 - Explored the long-standing debate of holiday preferences: beach vs. mountains, prompting an investigation into the predictability of preferences based on lifestyle and demographics.
 - Developed visualizations to illustrate the distribution of preferences and key features related to holiday choices.
 - Examined correlations between demographic and lifestyle factors and travel preferences.
