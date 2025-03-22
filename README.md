@@ -32,9 +32,16 @@ Achieved an additional 5% precision gain in scenarios where a team was forecaste
 - Built a predictive model using a Random Forest Classifier to analyze preference data.
 - Achieved a 99% accuracy with the model, indicating that demographic and lifestyle factors can provide valuable insights into travel preferences.
 
-### [Movie Recommendation System with Flask](https://github.com/Adlan-Boithier/Movie-Recommendation)
+### [Movie Recommendation System with PyTorch & Flask](https://github.com/Adlan-Boithier/Movie-Recommendation)
 ![App Screenshot](app_screenshot.png)
 - Interactive Interface: Built with Flask and modern CSS, inspired by streaming platforms like Netflix and Disney+.
 - Model Training: Uses PyTorch for training a recommendation model.
 - Exploratory Data Analysis (EDA): Analyzes user ratings and movie metadata to identify key trends.
 - Deployment: Can be deployed locally or on platforms like Heroku.
+
+### [Interactive chatbot application built with Mistral AI API & PyQt5](https://github.com/Adlan-Boithier/chatbot-project)
+![chatbot_screenshot](chatbot_screenshot.png)
+- Real-time conversation: Generates intelligent responses using the Mistral AI API.
+- User-friendly interface: Designed with PyQt5 for smooth and intuitive interactions.
+- Secure API management: Uses environment variables (dotenv) to keep API keys safe.
+- Easy setup: Minimal dependencies and straightforward installation.
