@@ -31,7 +31,7 @@ Achieved an additional 5% precision gain in scenarios where a team was forecaste
 - Achieved a 99% accuracy with the model, indicating that demographic and lifestyle factors can provide valuable insights into travel preferences.
 
 ### [Movie Recommendation System with Flask](https://github.com/Adlan-Boithier/Movie-Recommendation)
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](app_screenshot.png)
 - Interactive Interface: Built with Flask and modern CSS, inspired by streaming platforms like Netflix and Disney+.
 - Model Training: Uses PyTorch for training a recommendation model.
 - Exploratory Data Analysis (EDA): Analyzes user ratings and movie metadata to identify key trends.
