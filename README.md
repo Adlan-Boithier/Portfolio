@@ -16,15 +16,6 @@
 - Conducted sensitivity analysis to evaluate the impact of parameters like budget on route optimization, testing with 8 different budget levels.
 - Addressed high travel costs by offering optimized, eco-friendly travel plans for accessible tourism in Switzerland.
 
-
-### [Predictive Analytics for Premier League Team Performance](https://github.com/Adlan-Boithier/Premier-League-Prediction/)
-- Developed a predictive analytics model for Premier League team performance using a random forest algorithm.
-- Cleaned and prepared data utilizing the pandas library for effective data manipulation.
-- Made match outcome predictions using scikit-learn to leverage machine learning capabilities.
-- Enhanced model accuracy by implementing a rolling averages method, achieving a 15% increase in precision.
-- Evaluated prediction errors and made iterative improvements to refine the model.
-Achieved an additional 5% precision gain in scenarios where a team was forecasted to win against opponents predicted to draw or lose.
-
 ### [Travel Preferences: Mountains vs Beaches](https://github.com/Adlan-Boithier/Mountains-vs-Beaches) 
 ![distribution_preferences](distribution_preferences.png)
 - Explored the long-standing debate of holiday preferences: beach vs. mountains, prompting an investigation into the predictability of preferences based on lifestyle and demographics.
