@@ -10,6 +10,7 @@
 
 
 ### [Optimizing Swiss Tourism: Cost-Effective Travel with Python Models](https://github.com/Adlan-Boithier/Sustainable-Logistics/)
+![Sustainables_Logistics_screenshot](Sustainables_Logistics_screenshot.png)
 - Developed Python algorithms, including the Traveling Salesman Problem (TSP) and a customized knapsack model, for tourism optimization.
 - Created 7 scenarios focusing on affordability, environmental sustainability, and travel efficiency.
 - Conducted sensitivity analysis to evaluate the impact of parameters like budget on route optimization, testing with 8 different budget levels.
