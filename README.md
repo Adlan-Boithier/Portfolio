@@ -1,6 +1,7 @@
 ## **Selected Projects**
 
 ### [Optimizing Parcel Delivery in Paris with R: Collaboration with La Poste](https://github.com/Adlan-Boithier/Supply-Chain-La-Poste/)
+![Poster_Supply_Chain](Poster_Supply_Chain.png)
 - Developed a data-driven solution with La Poste to optimize parcel delivery in Paris using R.
 - Processed over 70,000 monthly delivery data points to identify cost-saving opportunities.
 - Applied Vehicle Routing Problem (VRP) algorithms and R’s optimization libraries to design efficient delivery routes.
